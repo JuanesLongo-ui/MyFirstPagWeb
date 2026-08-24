@@ -344,3 +344,27 @@ p {
 .app-img img {
     width: 450px;
 }
+
+
+.footer {
+    padding: 50px 0;
+    background-color: #FF9000;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #FFFFFF; 
+}
+
+.link a {
+    color: #FFFFFF;
+    font-size: 16px;
+    display:block;
+    margin-bottom: 10px; 
+}
